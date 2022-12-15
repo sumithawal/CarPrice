@@ -1,2 +1,1 @@
-# CarPrice
-mini_project
+# Car-Price-Prediction
